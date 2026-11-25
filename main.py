@@ -12,6 +12,8 @@
 #    complaint and the compliment both hit, and the punchline is the
 #    parking ticket, a petty bureaucratic grievance from another planet.
 # 4. One sentence, 184 of 200 characters, every word earning its place.
+#    The em dash is a single U+2014 character, not a sentence break, so
+#    the text stays one sentence under the gate's count.
 # 5. Fresh angle — no generic "the traffic was bad"; the complaints are
 #    specifically human habits an alien would find absurd.
 import os
